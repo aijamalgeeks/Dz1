@@ -1,0 +1,15 @@
+.block {
+    position:relative;
+    width: 550px;
+    height: 50px;
+    border: 1px solid white;
+    background-color: hotpink;
+    margin-bottom: 700px;
+    display: block;
+}
+.box {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color: blueviolet;
+}
